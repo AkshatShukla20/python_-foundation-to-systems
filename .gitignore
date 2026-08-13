@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Private / copyrighted learning material
+The Ultimate Python Handbook.pdf
+
+# Environment secrets
+.env
